@@ -6,7 +6,9 @@
 name: Éliane Morin-Côté
 
 # Name of the author
-author: Éliane Morin-Côté & Alexandre Mercier-Aubin
+author: Éliane Morin-Côté
+#Template from Reverie
+#Site adapted by Alexandre Mercier-Aubin
 
 # Short bio or description (displayed in the header)
 description: Blogueuse
@@ -21,14 +23,14 @@ avatar: /images/EM.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
-  facebook:
+  email: eliane.morincote@gmail.com
+  facebook: https://www.facebook.com/ambassadriceelianemcerosetcompagnie
   flickr:
   github: elianemorincote.github.io
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
+  rss: 
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -38,7 +40,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+# disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: UA-43339302-11
